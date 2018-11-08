@@ -35,6 +35,7 @@ Essa página deve permitir o cadastro de um novo fornecedor e a exibição de mensa
 
 Descrição dos campos usados na página de Cadastro de Fornecedor.
 
+[![Diagrama de Classe](https://github.com/alexandredorea/SupplierCompany/blob/master/doc/Mockup/Images/Diagrams/Diagrama%20de%20Classe%20-%2002%20-%20Fornecedor.svg)
 
 ## Protótipo
 
