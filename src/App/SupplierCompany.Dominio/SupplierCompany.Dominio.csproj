@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entidades\Base\" />
+    <Folder Include="Interfaces\Entidade\Base\" />
+    <Folder Include="Interfaces\Repositorio\Base\" />
+    <Folder Include="Interfaces\UoW\Base\" />
+  </ItemGroup>
+
+</Project>
