@@ -38,6 +38,8 @@ Descrição dos campos usados na página de Cadastro de Fornecedor.
 
 ## Protótipo
 
+[![Prototipo da Tela](https://github.com/alexandredorea/SupplierCompany/blob/master/doc/Mockup/Images/Prototypes/Cadastro%20de%20Fornecedor.png)
+
 
 
 [//]: # (Links de referências)
