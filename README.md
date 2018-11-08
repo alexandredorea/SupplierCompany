@@ -67,8 +67,6 @@ Sinta-se à vontade em abrir um [issue][DefeitoSupplierCompany] ou [pull request
 
 
 
-
-
 [//]: # (Links de referências para a andamento do projeto)
 
 [DocumentosEspecificacoes]: <https://github.com/alexandredorea/SupplierCompany/tree/master/doc/Especification>
@@ -82,7 +80,7 @@ Sinta-se à vontade em abrir um [issue][DefeitoSupplierCompany] ou [pull request
 
 [DocumentoEmpresa]: <https://github.com/alexandredorea/SupplierCompany/blob/master/doc/Especification/01%20-%20Cadastro%20de%20Empresa.md>
 [DocumentoFornecedor]: <https://github.com/alexandredorea/SupplierCompany/blob/master/doc/Especification/02%20-%20Cadastro%20de%20Fornecedor.md>
-[FerramentasRecursos]: <https://github.com/alexandredorea/SupplierCompany>
+[FerramentasRecursos]: <https://github.com/alexandredorea/SupplierCompany/tree/master/doc/Tools>
 
 
 [//]: # (Links de referências aos problemas neste projeto)
