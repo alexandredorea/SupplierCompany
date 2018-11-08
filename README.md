@@ -10,12 +10,16 @@ Este projeto reflete um dos desafios realizados como parte de um processo seleti
 
 O Projeto Supplier Company, tem o intuito de demonstrar uma aplicação em .Net Core e demais tecnologias descritas abaixo para um pequeno Cadastro de Empresas e Fornecedores. 
 
-Buscou-se além de atender os requisitos solicitados (vide os [documentos de especificações][DocumentosEspecificacoes]), foram adicionados artefatos pertinentes os meus conhecimentos em [Gerência de Projetos][GerenciaProjeto], [Gerência de Configuração][GerenciaConfiguracao], [Gestão de Banco de Dados (DBA)][GerenciaDBA], entre outros conceitos proprício e etapas para concepção de um software.
+Buscou-se além de atender os requisitos solicitados (vide os documentos de [especificações][DocumentosEspecificacoes]), foram adicionados artefatos pertinentes os meus conhecimentos em Gerência de [Projetos][GerenciaProjeto], [Gerência de Configuração][GerenciaConfiguracao], Gestão de [Banco de Dados (DBA)][GerenciaDBA], entre outros conceitos proprício e etapas para concepção de um software.
 
 
 ## Desafio
 
 Criar uma listagem de fornecedores relacionado a uma empresa.
+
+[![Prototipo da Tela](https://github.com/alexandredorea/SupplierCompany/blob/master/doc/Mockup/Images/Prototypes/Lista%20de%20Fornecedores.png)
+
+* A listagem dos fornecedores deverá conter **filtros** por `Nome`, `CPF/CNPJ` e `Data de Cadastro`.
 
 
 ## Cenário
