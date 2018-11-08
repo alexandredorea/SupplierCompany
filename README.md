@@ -10,7 +10,7 @@ Este projeto reflete um dos desafios realizados como parte de um processo seleti
 
 O Projeto Supplier Company, tem o intuito de demonstrar uma aplicação em .Net Core e demais tecnologias descritas abaixo para um pequeno Cadastro de Empresas e Fornecedores. 
 
-Buscou-se além de atender os requisitos solicitados (vide os documentos de especificações), foram adicionados artefatos pertinentes os meus conhecimentos em Gerência de Projetos, Gerência de Configuração, Gestão de Banco de Dados (DBA), entre outros conceitos proprício e etapas para concepção de um software.
+Buscou-se além de atender os requisitos solicitados (vide os [documentos de especificações][DocumentosEspecificacoes]), foram adicionados artefatos pertinentes os meus conhecimentos em [Gerência de Projetos][GerenciaProjeto], [Gerência de Configuração][GerenciaConfiguracao], [Gestão de Banco de Dados (DBA)][GerenciaDBA], entre outros conceitos proprício e etapas para concepção de um software.
 
 
 ## Desafio
@@ -26,6 +26,8 @@ Sua função é desenvolver uma página de “Cadastro de Empresa”, onde o usu
 
 
 ## Especificações
+
+A documentação deste projeto encontram-se em:
 
 * [Cadastro de Empresas][DocumentoEmpresa]
 * [Cadastro de Fornecedores][DocumentoFornecedor]
@@ -87,10 +89,21 @@ Sinta-se à vontade em abrir um [issue][DefeitoSupplierCompany] ou [pull request
 
 
 
+
+
+
+[//]: # (Links de referências para a andamento do projeto)
+
+[DocumentosEspecificacoes]: <https://github.com/alexandredorea/SupplierCompany/tree/master/doc/Especification>
+[GerenciaProjeto]: <https://github.com/alexandredorea/SupplierCompany/projects>
+[GerenciaConfiguracao]: <https://github.com/alexandredorea/SupplierCompany/tree/master/doc>
+[GerenciaDBA]: <https://github.com/alexandredorea/SupplierCompany/blob/master/doc/Mockup/Images/Diagrams/Diagrama%20do%20Banco%20de%20Dados.PNG>
+
+
 [//]: # (Links de referências para a documentação)
 
-[DocumentoEmpresa]: <https://github.com/alexandredorea/SupplierCompany>
-[DocumentoFornecedor]: <https://github.com/alexandredorea/SupplierCompany>
+[DocumentoEmpresa]: <https://github.com/alexandredorea/SupplierCompany/blob/master/doc/Especification/01%20-%20Cadastro%20de%20Empresa.md>
+[DocumentoFornecedor]: <https://github.com/alexandredorea/SupplierCompany/blob/master/doc/Especification/02%20-%20Cadastro%20de%20Fornecedor.md>
 
 
 [//]: # (Links de referências para o quadro de recursos utilizados)
